@@ -40,8 +40,7 @@
 6) Seaborn
 7) Jupyter Notebook
 # Technologies Used
-
-![Sc![Screenshot (157)](https://user-images.githubusercontent.com/84491967/140642718-6721c1ac-2e7d-466a-b1ea-04e9d9a2a726.png)
-![Sc![screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
+![Screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/84491967/140642806-d77b4a89-7c81-4fd7-83da-2c1f694212f6.png)
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities or collabration, shoot an email at pvmanaf02@gmail.com
