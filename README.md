@@ -33,7 +33,7 @@
 # Tools Used
 
 1) Python
-2) Scikit- Learn
+2) Scikit- learn
 3) Pandas
 4) Numpy
 5) Matplotlib
