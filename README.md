@@ -13,7 +13,7 @@
     A model for predicting a patient is malignant or non malignant.
 
     Logistic Regression is used for this classification.
-3) Identify Advertisment in a Webpage.
+3) Identify Advertisement in a Webpage.
 
     Built a model for classify Advertisement or Article content in Webpage.
 
