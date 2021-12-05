@@ -15,7 +15,7 @@
     Logistic Regression is used for this classification.
 3) Identify Advertisment in a Webpage.
 
-    Built a model for classify Advertisment or Article content in Webpage.
+    Built a model for classify Advertisement or Article content in Webpage.
 
     Decision Tree is used for predicting an Advertisement or Article Content
 4) Identify Spam Mails
