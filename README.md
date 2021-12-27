@@ -2,7 +2,7 @@
 
 # Contents
 
-1) Finding the importants of Advertisment in sales
+# 1) Finding the importants of Advertisment in sales
 
     A model to predict the importance of Advertisment in Sales.
 
@@ -10,7 +10,7 @@
     # Result
     The score is 0.79. From this we can mainly understand that how a advertisement is impact on sales
 
-2) Identify Breast cancer patients
+# 2) Identify Breast cancer patients
 
     A model for predicting a patient is malignant or non malignant.
 
@@ -18,13 +18,13 @@
     # Result
     The accuracy of Logistic Regression model is 0.96
 
-3) Identify Spam Mails
+# 3) Identify Spam Mails
 
     Built a spam identifier using TF-IDF and Logistic Regression.
       # Result
       For this we want to use Precision score. The Precision score of this Logistic Regression model is 0.99
 
-4) Sentimental Analysis of Movies
+# 4) Sentimental Analysis of Movies
 
     Logistic Regression and TF-IDF is used for sentimental Analysis of movies.
      # Result
