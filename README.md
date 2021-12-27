@@ -7,20 +7,28 @@
     A model to predict the importance of Advertisment in Sales.
 
     Linear Regression is used for this prediction.
+    # Result
+    The score is 0.79. From this we can mainly understand that how a advertisement is impact on sales
 
 2) Identify Breast cancer patients
 
     A model for predicting a patient is malignant or non malignant.
 
     Logistic Regression is used for this classification.
+    # Result
+    The accuracy of Logistic Regression model is 0.96
 
 3) Identify Spam Mails
 
     Built a spam identifier using TF-IDF and Logistic Regression.
+      # Result
+      For this we want to use Precision score. The Precision score of this Logistic Regression model is 0.99
 
 4) Sentimental Analysis of Movies
 
     Logistic Regression and TF-IDF is used for sentimental Analysis of movies.
+     # Result
+     The accuracy of this model is 0.63
 
 # Tools Used
 
