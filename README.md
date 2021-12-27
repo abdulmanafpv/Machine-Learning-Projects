@@ -13,20 +13,12 @@
     A model for predicting a patient is malignant or non malignant.
 
     Logistic Regression is used for this classification.
-3) Identify Advertisement in a Webpage.
 
-    Built a model for classify Advertisement or Article content in Webpage.
-
-    Decision Tree is used for predicting an Advertisement or Article Content
-4) Identify Spam Mails
+3) Identify Spam Mails
 
     Built a spam identifier using TF-IDF and Logistic Regression.
 
-5) KSRTC Ridership prediction using Natural Language Processing(NLP)
-
-    Used Linear Regression, Elastic Net Regression, Random Forest Regression were used for predicting Ksrtc Future Trips.
-
-6) Sentimental Analysis of Movies
+4) Sentimental Analysis of Movies
 
     Logistic Regression and TF-IDF is used for sentimental Analysis of movies.
 
